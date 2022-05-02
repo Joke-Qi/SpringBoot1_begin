@@ -1,0 +1,18 @@
+# 普通的key-value
+name: Qi
+
+# 对象
+student1:
+  name: Qi
+  age: 19
+
+# 行内
+student2: {name: Liu, age: 18}
+
+# 数组
+pets1:
+  - pig
+  - dog
+
+# 行内
+pets2: [cat, dog]
