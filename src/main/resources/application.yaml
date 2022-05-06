@@ -16,3 +16,9 @@ pets1:
 
 # 行内
 pets2: [cat, dog]
+
+# 自定义的配置日期格式化！
+spring:
+  mvc:
+    format:
+      date: dd/MM/yyyy
